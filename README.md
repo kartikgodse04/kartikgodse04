@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kartik Godse</h1>
+<h1 align="center">Hi👋, I'm Kartik Godse</h1>
 <h3 align="center">Full Stack Web Developer | UI/UX Designer | Java Developer</h3>
 
 <p align="center">

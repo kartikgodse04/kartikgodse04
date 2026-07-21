@@ -22,14 +22,10 @@ My tech journey began in **2024** with a curiosity to understand how software, w
 
 As my knowledge grew, I stepped into **Full Stack Web Development**, where I learned to build responsive websites, develop backend systems, work with databases, and create real-world applications. Every project helped me gain practical experience and a deeper understanding of modern software development.
 
-Along the way, I expanded my skills in **Cloud Computing**, **AWS**, **UI/UX Design**, and modern development tools such as **Git**, **GitHub**, **Docker**, and **Postman**. I enjoy learning new technologies, experimenting with different frameworks, and continuously improving my development workflow.
-
-Today, I am focused on building scalable, user-friendly applications, contributing to meaningful projects, and growing into a well-rounded software engineer. For me, technology is not just about writing code—it's about creating solutions that make a difference.
-
 ✨ **"Started with curiosity in 2024. Growing with every project, every challenge, and every commit."**
 
 ### 🎯 Vision & Mission:
-🎯Vision<br><br>To become a world-class Software Engineer creating secure, scalable, and impactful technology.<br><br>🚀 Mission<br><br>✨ Build meaningful projects.<br>🧠 Master Data Structures & Algorithms.<br>☁️ Become an expert in Cloud Computing & Cybersecurity.<br>🤝 Contribute to Open Source.<br>📈 Learn something new every single day.<br>💼 Land opportunities at top global tech companies.
+➢ Vision<br><br>To become a world-class Software Engineer creating secure, scalable, and impactful technology.<br><br>➢ Mission<br><br>✨ Build meaningful projects.<br>🧠 Master Data Structures & Algorithms.<br>☁️ Become an expert in Cloud Computing & Cybersecurity.<br>🤝 Contribute to Open Source.<br>📈 Learn something new every single day.<br>💼 Land opportunities at top global tech companies.
 ## 💼 Expertise
 
 ### 💻 Software Development
@@ -40,12 +36,10 @@ Today, I am focused on building scalable, user-friendly applications, contributi
 - REST API Development
 - Authentication & Authorization Systems
 - Admin & User Dashboards
-- Responsive Web Design
 
 ### 🗄️ Database Management
 - MongoDB
 - MySQL
-- PostgreSQL
 - Database Design & CRUD Operations
 
 ### 🎨 UI/UX Design

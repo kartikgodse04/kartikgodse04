@@ -66,8 +66,9 @@ As my knowledge grew, I stepped into **Full Stack Web Development**, where I lea
 <div align="center">
   <p align="center">
 <h2>🛠️ Tools</h2>
+
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
 </p>
 
 <h2>🌐 Connect With Me</h2>
@@ -93,7 +94,7 @@ As my knowledge grew, I stepped into **Full Stack Web Development**, where I lea
 <h2>💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nodejs,express,mongodb,mysql,postgres,html,css,tailwind,bootstrap,php,dotnet,flask,aws,docker,git,github,vscode,linux,postman,c,cpp&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nodejs,express,mongodb,mysql,html,css,php,dotnet,flask,aws,docker,git,github,linux,c,cpp&theme=dark&perline=7" />
 </p>
 
 ---
